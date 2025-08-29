@@ -23,6 +23,4 @@ public class Pool<T>
 
     [MethodImpl(MethodImplOptions.AggressiveInlining)]
     public void Return(T item) => items.Push(item);
-
-    public int Count => items.Count;
 }
