@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f93f9c5a4094c354395a324ea098b306
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232998
+  packageName: Anime Suburb City
+  packageVersion: 1.2
+  assetPath: Assets/AnimeSuburbCity/Animations/SM_PufferFishBalloon.controller
+  uploadId: 640893

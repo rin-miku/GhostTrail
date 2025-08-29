@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 852e75aae898beb4ab650619d18947e8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232998
+  packageName: Anime Suburb City
+  packageVersion: 1.2
+  assetPath: Assets/AnimeSuburbCity/Prefabs/VendingMachines/SM_CoffeeMachine.prefab
+  uploadId: 640893

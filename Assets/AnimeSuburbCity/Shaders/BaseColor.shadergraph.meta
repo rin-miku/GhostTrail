@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b79f408f6801f4742a59ae16bc9cb94b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232998
+  packageName: Anime Suburb City
+  packageVersion: 1.2
+  assetPath: Assets/AnimeSuburbCity/Shaders/BaseColor.shadergraph
+  uploadId: 640893
