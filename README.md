@@ -1,2 +1,2 @@
 # GhostTrail
-Unity6 URP Ghost Trail Effect (Camera History Texture)
+Unity6 URP Ghost Trail Effect (Bake Mesh)
